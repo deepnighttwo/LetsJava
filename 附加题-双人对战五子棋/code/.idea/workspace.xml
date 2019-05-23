@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aaeadd03-bd14-4bc4-baef-4bf8099433c4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/WuZiQi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WuZiQi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/code/META-INF/code.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/code/WuZiQi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/code/WuZiQiHuaQiPan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/code/说明.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -169,14 +173,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1680" height="949" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12942614" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12942614" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -185,7 +188,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.62077016" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4177363" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4177363" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
