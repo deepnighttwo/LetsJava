@@ -141,7 +141,6 @@ public class WuZiQi {
                     // 以横着的方向为例子，横着要向前检查一次，如果遇到不是自己的子，或者到了棋盘边界，要再向后检查一次。
                     // 向前检查的时候，deltaLine为1，deltaColumn为0；
                     // 向后检查的时候，deltaLine为-1，deltaColumn为0；
-                    // 向后检查的时候，deltaLine为-1，deltaColumn为0；
                     for (int j = 0; j < 2 & (!hasWinner); j++) {
                         // 所以这里for循环两次，每次循环的时候，delta要乘以-1，代表变换检查的方向
                         // 比如水平方向，要检查两次，第一次是向左，第二次向右，两次的delta正好是*-1的关系

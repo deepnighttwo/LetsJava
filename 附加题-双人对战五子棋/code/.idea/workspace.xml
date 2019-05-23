@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aaeadd03-bd14-4bc4-baef-4bf8099433c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WuZiQi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WuZiQiHuaQiPan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/说明.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WuZiQi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WuZiQi.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,8 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/WuZiQi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="115" column="59" selection-start-line="115" selection-start-column="59" selection-end-line="115" selection-end-column="59" />
+            <state relative-caret-position="277">
+              <caret line="142" selection-start-line="142" selection-end-line="142" />
             </state>
           </provider>
         </entry>
@@ -189,7 +185,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.62077016" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.09101517" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4177363" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -227,8 +223,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/WuZiQi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="115" column="59" selection-start-line="115" selection-start-column="59" selection-end-line="115" selection-end-column="59" />
+        <state relative-caret-position="277">
+          <caret line="142" selection-start-line="142" selection-end-line="142" />
         </state>
       </provider>
     </entry>
