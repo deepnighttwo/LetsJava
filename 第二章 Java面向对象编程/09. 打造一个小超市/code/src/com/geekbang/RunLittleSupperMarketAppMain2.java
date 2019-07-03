@@ -87,7 +87,8 @@ public class RunLittleSupperMarketAppMain2 {
                     continue;
                 }
 
-                if (numToBuy * m.purchasePrice + totalCost > customer.money) {
+                // 视频中此处有错误, 应该是 numToBuy * m.soldPrice 而不是 numToBuy * m.purchasePrice . 鸣谢 @时间是最真的答案 帮忙活捉bug一只. 
+                if (numToBuy * m.soldPrice + totalCost > customer.money) {
                     System.out.println("您带的钱不够，欢迎继续挑选");
                     continue;
                 }
