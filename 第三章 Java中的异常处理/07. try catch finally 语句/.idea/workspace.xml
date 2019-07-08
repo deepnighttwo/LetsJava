@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="658ebe7b-b3d8-4e64-b4e9-5506af147eea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../04. Java 异常的传递/code/src/com/geekbang/exception/CallStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. 抛出异常的语法/code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03. 抛出异常的语法/code/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. 抛出异常的语法/code/src/com/geekbang/exception/NewAndThrowIt.java" beforeDir="false" afterPath="$PROJECT_DIR$/../03. 抛出异常的语法/code/src/com/geekbang/exception/NewAndThrowIt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. 抛出异常的语法/code/src/com/geekbang/exception/ThrowIt.java" beforeDir="false" afterPath="$PROJECT_DIR$/../03. 抛出异常的语法/code/src/com/geekbang/exception/ThrowIt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. 抛出异常的语法/ppt.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../03. 抛出异常的语法/ppt.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04. Java 异常的传递/code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../04. Java 异常的传递/code/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04. Java 异常的传递/code/src/com/geekbang/exception/CallerExceptionAppMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../04. Java 异常的传递/code/src/com/geekbang/exception/CallerExceptionAppMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04. Java 异常的传递/code/src/com/geekbang/exception/CallerRtExceptionAppMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../04. Java 异常的传递/code/src/com/geekbang/exception/CallerRtExceptionAppMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04. Java 异常的传递/ppt.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../04. Java 异常的传递/ppt.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05. 自定义异常/code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../05. 自定义异常/code/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05. 自定义异常/ppt.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../05. 自定义异常/ppt.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06. 异常传递不是凌波微步/code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../06. 异常传递不是凌波微步/code/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06. 异常传递不是凌波微步/code/src/com/geekbang/exception/Caller1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../06. 异常传递不是凌波微步/code/src/com/geekbang/exception/Caller1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06. 异常传递不是凌波微步/code/src/com/geekbang/exception/Caller2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../06. 异常传递不是凌波微步/code/src/com/geekbang/exception/Caller2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06. 异常传递不是凌波微步/code/src/com/geekbang/exception/Caller3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../06. 异常传递不是凌波微步/code/src/com/geekbang/exception/Caller3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06. 异常传递不是凌波微步/code/src/com/geekbang/exception/CallerExceptionAppMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../06. 异常传递不是凌波微步/code/src/com/geekbang/exception/CallerExceptionAppMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06. 异常传递不是凌波微步/code/src/com/geekbang/exception/CallerRtExceptionAppMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../06. 异常传递不是凌波微步/code/src/com/geekbang/exception/CallerRtExceptionAppMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06. 异常传递不是凌波微步/ppt.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../06. 异常传递不是凌波微步/ppt.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07. try catch finally 语句和try finally 语句/code/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07. try catch finally 语句和try finally 语句/code/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07. try catch finally 语句和try finally 语句/code/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07. try catch finally 语句和try finally 语句/code/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07. try catch finally 语句和try finally 语句/code/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07. try catch finally 语句和try finally 语句/code/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07. try catch finally 语句和try finally 语句/code/code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07. try catch finally 语句和try finally 语句/code/src/com/geekbang/UsePhoneMerchandise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07. try catch finally 语句和try finally 语句/code/src/com/geekbang/supermarket/LittleSuperMarket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07. try catch finally 语句和try finally 语句/code/src/com/geekbang/supermarket/MerchandiseV2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07. try catch finally 语句和try finally 语句/code/src/com/geekbang/supermarket/Phone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07. try catch finally 语句和try finally 语句/ppt.pptx" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="528" />
+    <option name="y" value="91" />
+    <option name="width" value="1680" />
+    <option name="height" value="949" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="658ebe7b-b3d8-4e64-b4e9-5506af147eea" name="Default Changelist" comment="" />
+      <created>1560751202331</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560751202331</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="949" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
