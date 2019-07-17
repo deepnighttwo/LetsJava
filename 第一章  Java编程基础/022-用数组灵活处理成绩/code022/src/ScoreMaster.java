@@ -115,7 +115,8 @@ public class ScoreMaster {
                             year = i;
                         }
                     }
-                    System.out.println("第" + (year + 1) + "年度" + names[subjectId] + "成绩最好，为" + scores[year][subjectId] + "。");
+                    //                       谢谢 @zZGod 揪出bug一只
+                    System.out.println("第" + (bestYear + 1) + "年度" + names[subjectId] + "成绩最好，为" + scores[year][subjectId] + "。");
 
                     break;
                 default:
