@@ -1,0 +1,52 @@
+
+swagger: '2.0'
+info:
+    title: Java101ForGeektime REST API
+    description: REST APIs for Java101ForGeektime
+    version: "1.0.0"
+# the domain of the service
+host: www.geektime.com
+# array of all schemes that your API supports
+schemes:
+    - https
+# will be prefixed to all paths
+basePath: /v1
+produces:
+    - application/text
+    - application/json
+    - application/xml
+paths:
+    /calc:
+        get:
+            summary: math calculation
+            parameters:
+                -   name: a
+                    in: query
+                    required: true
+                    type: string
+                -   name: b
+                    in: query
+                    required: true
+                    type: string
+                -   name: mathCalc
+                    in: query
+                    description: entity type
+                    items:
+                        type: string
+                        enum:
+                            - add
+                            - sub
+                            - mul
+                            - div
+                            - mod
+                    type: string
+                    required: true
+            responses:
+                200:
+                    description: description
+                    schema:
+                        type: string
+                default:
+                    description: description
+                    schema:
+                        type: string

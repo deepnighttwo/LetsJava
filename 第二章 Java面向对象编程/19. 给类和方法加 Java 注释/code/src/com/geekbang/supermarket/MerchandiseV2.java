@@ -11,7 +11,7 @@ package com.geekbang.supermarket;
  *
  * 对这个类的说明
  *
- * @author mzang
+ * @author 作者
  *
  */
 public class MerchandiseV2 {

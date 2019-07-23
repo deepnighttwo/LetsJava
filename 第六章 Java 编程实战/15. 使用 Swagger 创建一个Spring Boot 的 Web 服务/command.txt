@@ -1,0 +1,6 @@
+
+
+
+
+java -jar ./swagger-codegen-cli-2.4.7.jar generate -i ./java101forgeektime.yaml  -o  ./code  -l spring
+

@@ -1,0 +1,1 @@
+java -classpath ".:../../../lib/guava-28.0-jre.jar" com.geekbang.oldstyle.UserLibraryInClassPathAppMain
