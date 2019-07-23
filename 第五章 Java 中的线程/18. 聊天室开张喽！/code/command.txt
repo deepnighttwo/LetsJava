@@ -1,0 +1,4 @@
+java com.geekbang.chatroom.ChatRoomClientAppMain "127.0.0.1"
+
+java com.geekbang.chatroom.ChatRoomServerAppMain
+
