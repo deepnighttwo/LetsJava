@@ -19,4 +19,19 @@ public enum Category {
         this.higherPrice = higherPrice;
     }
 
+    public int getLowerPrice() {
+        return lowerPrice;
+    }
+
+    public void setLowerPrice(int lowerPrice) {
+        this.lowerPrice = lowerPrice;
+    }
+
+    public int getHigherPrice() {
+        return higherPrice;
+    }
+
+    public void setHigherPrice(int higherPrice) {
+        this.higherPrice = higherPrice;
+    }
 }
