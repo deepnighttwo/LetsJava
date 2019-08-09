@@ -2,6 +2,8 @@
 # 配置 JDK 
 有些同学碰到了配置 JDK 的问题。最明显的现象就是各种不能用，源代码里的 String 类也是显示为红色的，编译也是各种报错。有时候源代码编辑器的右上角还会提示 Setup JSK。
 
+IntelliJ个JDK起名字的规则也很迷。对于JDK 11, 有时候IntelliJ会把它叫做JDK_11, 有时候会带上小版本, 比如JDK_11.02这种. 更不用说JDK版本不一样的情况, 比如JDK_8. 解决的方式是一样的，新建一个JDK的配置。
+
 如果编辑器上告诉你要Setup JDK，那么点一下就可以进入到配置JDK的对话框了。如果没看到的话，可以通过下面的方式打开配置JDK的对话框：
 
  - 选择菜单栏里的 File -> Project Structure...
@@ -15,6 +17,10 @@
 
 ![IntelliJ 里的 JDK 配置窗口](/FAQ/imgs/setup_jdk_in_intellij_idea.png?raw=true)
 
+
 # 强制重新编译
 
 如果 JDK 的配置没有问题，那么可以尝试强制重新编译整个项目。IntelliJ其实是会自动帮我们增量编译的，也就是哪个源文件变化了，就尝试重新编译这个源文件并生成class文件。但是有时候IntelliJ也难免跟不上节奏，漏掉个什么的。这时候可以尝试重新编译整个项目。方法是在菜单栏里，选择 Build -> Rebuild Project
+
+
+
