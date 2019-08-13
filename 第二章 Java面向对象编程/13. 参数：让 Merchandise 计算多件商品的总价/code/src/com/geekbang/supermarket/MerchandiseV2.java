@@ -34,11 +34,12 @@ public class MerchandiseV2 {
             return -1;
         }
 
-        System.out.println("商品单价为" + purchasePrice);
+        // FIXME: 销售应该用soldPrice而不是purchasePrice，谢谢 @Novichok 指出这个错误
+        System.out.println("商品单价为" + soldPrice);
 
         int fullPriceCount = countToBuy / 2 + countToBuy % 2;
         int halfPriceCount = countToBuy - fullPriceCount;
-        double totalCost = purchasePrice * fullPriceCount + halfPriceCount * purchasePrice / 2;
+        double totalCost = soldPrice * fullPriceCount + halfPriceCount * soldPrice / 2;
 
         count -= countToBuy;
 
@@ -55,11 +56,12 @@ public class MerchandiseV2 {
             return -1;
         }
 
-        System.out.println("商品单价为" + purchasePrice);
+        // FIXME: 销售应该用soldPrice而不是purchasePrice，谢谢 @Novichok 指出这个错误
+        System.out.println("商品单价为" + soldPrice);
 
         int fullPriceCount = countToBuy / 2 + countToBuy % 2;
         int halfPriceCount = countToBuy - fullPriceCount;
-        double totalCost = purchasePrice * fullPriceCount + halfPriceCount * purchasePrice / 2;
+        double totalCost = soldPrice * fullPriceCount + halfPriceCount * soldPrice / 2;
 
         count -= countToBuy;
 
