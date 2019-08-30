@@ -1,4 +1,0 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Jul 12 15:21:19 CST 2019
-http\://maven.aliyun.com/nexus/content/groups/public/.error=Could not transfer artifact org.apache.maven.plugins\:maven-resources-plugin\:pom\:2.6 from/to nexus (http\://maven.aliyun.com/nexus/content/groups/public/)\: PKIX path building failed\: sun.security.provider.certpath.SunCertPathBuilderException\: unable to find valid certification path to requested target
-@default-nexus-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1562916079303
