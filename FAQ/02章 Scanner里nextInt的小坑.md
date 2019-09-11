@@ -71,7 +71,12 @@
 ```
 其实nextInt只消费了一个123，并没有消费最后的那个回车换行符。
 
-所以
+**所以当输入一个123和一个回车换行之后，再调用nextInt，会收获一个123，然后在没有任何输入的情况下，再调用一个nextLine，会收获一个空字符串。**
+
+随意
+
+
+(Integer.parseInt(scanner.nextLine()) vs scanner.nextInt())[https://stackoverflow.com/questions/26586489/integer-parseintscanner-nextline-vs-scanner-nextint]
 
 
 
