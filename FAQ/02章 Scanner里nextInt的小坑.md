@@ -73,11 +73,16 @@
 
 **所以当输入一个123和一个回车换行之后，再调用nextInt，会收获一个123，然后在没有任何输入的情况下，再调用一个nextLine，会收获一个空字符串。**
 
-随意
+行业内有个道理，对于 Java 这种成熟的语言，要坚信自己不是一个人在战斗（趟坑）。如果你发现是，那么大概率是选错了解决问题的方式方法。
 
+那么怎么看别人趟过的坑呢？Stackoverflow！
 
-[Integer.parseInt(scanner.nextLine()) vs scanner.nextInt()](https://stackoverflow.com/questions/26586489/integer-parseintscanner-nextline-vs-scanner-nextint)
+Scanner的这个坑，也是有人趟过的详见下面的问题： [Integer.parseInt(scanner.nextLine()) vs scanner.nextInt()](https://stackoverflow.com/questions/26586489/integer-parseintscanner-nextline-vs-scanner-nextint)
 
+当然这也是我建议的解决问题的方式，如果你确定要让用户输入的一行内容就是一个int，那么可以这么用：
 
+```
+Integer.parseInt(scanner.nextLine())
+```
 
 
