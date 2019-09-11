@@ -76,7 +76,7 @@
 随意
 
 
-(Integer.parseInt(scanner.nextLine()) vs scanner.nextInt())[https://stackoverflow.com/questions/26586489/integer-parseintscanner-nextline-vs-scanner-nextint]
+[Integer.parseInt(scanner.nextLine()) vs scanner.nextInt()](https://stackoverflow.com/questions/26586489/integer-parseintscanner-nextline-vs-scanner-nextint)
 
 
 
