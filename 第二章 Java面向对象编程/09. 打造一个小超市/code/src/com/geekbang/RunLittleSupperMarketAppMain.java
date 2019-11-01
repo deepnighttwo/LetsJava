@@ -109,7 +109,8 @@ public class RunLittleSupperMarketAppMain {
 
                 // 钱也够，货也够
                 // 更新顾客此次消费的总额
-                totalCost += toBuy.count * toBuy.soldPrice;
+                // 应该是 numToBuy * m.soldPrice 而不是 numToBuy * m.purchasePrice . 鸣谢 @Geek_421d56 帮忙活捉bug一只. 
+                totalCost += numToBuy.count * toBuy.soldPrice;
                 // 更新商品库存
                 toBuy.count -= numToBuy;
                 // 更新今日销货数据
