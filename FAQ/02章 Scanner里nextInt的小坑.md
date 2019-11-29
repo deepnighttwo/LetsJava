@@ -1,3 +1,7 @@
+- [问题：Scanner没有消费掉那个回车换行符](#%e9%97%ae%e9%a2%98scanner%e6%b2%a1%e6%9c%89%e6%b6%88%e8%b4%b9%e6%8e%89%e9%82%a3%e4%b8%aa%e5%9b%9e%e8%bd%a6%e6%8d%a2%e8%a1%8c%e7%ac%a6)
+- [解决方法：使用nextLine](#%e8%a7%a3%e5%86%b3%e6%96%b9%e6%b3%95%e4%bd%bf%e7%94%a8nextline)
+
+# 问题：Scanner没有消费掉那个回车换行符
 
 @carZycriss 同学在26 用数组保存成绩一节中提出了一个问题，是和Scanner使用相关的。 应该有不少同学遇到了这个问题。这里我把Scanner API再详细说一下。
 
@@ -54,6 +58,7 @@
     数学:10
 ```
 
+# 解决方法：使用nextLine
 
 下面是这个问题的解释。
 
