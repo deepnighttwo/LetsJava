@@ -17,3 +17,9 @@
 说回到 bean。Spring 既然一开始对标的是 EJB，也很自然的把自己系统里的东西叫做 bean。但是它并不像 Sun 那样搞这么复杂，就简简单单的一个词：bean。现在我们习惯叫它 spring bean。
 
 就说这么多吧，实在编不下去了。大家有什么补充的吗？
+
+***
+
+这篇文章来自极客时间推出的[《零基础学Java》](https://time.geekbang.org/course/intro/181)中的FAQ。除了在每节视频课下方回答大家的问题之外，针对大家提出的优质问题或者普遍问题，如果需要更大篇幅的文章解答，则会在FAQ中以文章的方式给出回答。带你零基础入门，夯实Java，欢迎订阅：https://time.geekbang.org/course/intro/181
+
+

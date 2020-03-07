@@ -35,3 +35,7 @@ public interface CalcApi {
     ResponseEntity<String> calcGet(@NotNull @ApiParam(value = "", required = true) @Valid @RequestParam(value = "a", required = true) String a,@NotNull @ApiParam(value = "", required = true) @Valid @RequestParam(value = "b", required = true) String b,@NotNull @ApiParam(value = "entity type", required = true) @Valid @RequestParam(value = "mathCalc", required = true) String mathCalc);
 
 }
+
+/**
+ * 源代码来自极客时间里的《零基础学Java》，带你零基础入门，夯实Java，欢迎订阅：https://time.geekbang.org/course/intro/181
+ */
