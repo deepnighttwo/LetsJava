@@ -80,7 +80,3 @@ public class GuessNumber {
         System.out.println("共进行了" + totalGameCount + "次游戏，其中正确的为" + totalCorrectCount + "次");
     }
 }
-
-/**
- * 源代码来自极客时间里的《零基础学Java》，带你零基础入门，夯实Java，欢迎订阅：https://time.geekbang.org/course/intro/181
- */

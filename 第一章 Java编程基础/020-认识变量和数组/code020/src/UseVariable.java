@@ -13,7 +13,3 @@ public class UseVariable {
         System.out.println("再次给赋值，现在a的值为" + a);
     }
 }
-
-/**
- * 源代码来自极客时间里的《零基础学Java》，带你零基础入门，夯实Java，欢迎订阅：https://time.geekbang.org/course/intro/181
- */

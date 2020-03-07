@@ -12,6 +12,3 @@ public class Merchandise {
 }
 
 // >> TODO 上面这整个类，其实就是创建了一个模版。描述了一种我们需要的数据类型。
-/**
- * 源代码来自极客时间里的《零基础学Java》，带你零基础入门，夯实Java，欢迎订阅：https://time.geekbang.org/course/intro/181
- */
