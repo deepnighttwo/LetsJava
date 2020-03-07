@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50eea7ee-7245-4a5a-8c82-fba315da9e80" name="Default Changelist" comment="">
+    <list default="true" id="372f7d6a-2ab8-45de-abe9-a16f76efb7b1" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../../002-环境准备/code002/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../002-环境准备/code002/.idea/codeStyles/Project.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../002-环境准备/code002/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
@@ -29,14 +29,14 @@
       <change afterPath="$PROJECT_DIR$/../../014-程序循环之for语句/code014/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../014-程序循环之for语句/code014/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../014-程序循环之for语句/code014/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../015-代码块和变量的作用域/code015/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../015-代码块和变量的作用域/code015/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../015-代码块和变量的作用域/code015/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../015-代码块和变量的作用域/code015/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../015-代码块和变量的作用域/code015/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../015-代码块和变量的作用域/code015/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../016-程序循环之while语句/code016/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../016-程序循环之while语句/code016/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../017-程序执行流程之switch语句/code017/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../017-程序执行流程之switch语句/code017/.idea/codeStyles/Project.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../017-程序执行流程之switch语句/code017/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
@@ -54,10 +54,10 @@
       <change afterPath="$PROJECT_DIR$/../../019-用数组保存成绩/code019/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../019-用数组保存成绩/code019/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../第二章 Java面向对象编程/10. Intellij 调试程序初探/code/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/code016.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../016-程序循环之while语句/code016/.idea/code016.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../016-程序循环之while语句/code016/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../016-程序循环之while语句/code016/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../016-程序循环之while语句/code016/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../016-程序循环之while语句/code016/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../016-程序循环之while语句/code016/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../016-程序循环之while语句/code016/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +73,7 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
+  <component name="ProjectId" id="1Yn3jdfdTJTGiSAzgSUzNIk9eyP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -80,6 +81,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="SvnConfiguration">
@@ -87,18 +89,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="50eea7ee-7245-4a5a-8c82-fba315da9e80" name="Default Changelist" comment="" />
-      <created>1583564696694</created>
+      <changelist id="372f7d6a-2ab8-45de-abe9-a16f76efb7b1" name="Default Changelist" comment="" />
+      <created>1583564666590</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1583564696694</updated>
+      <updated>1583564666590</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="390" y="171" width="1053" height="731" key="NewModule_or_Project.wizard" timestamp="1583564768017">
+    <state x="38" y="74" key="new project wizard" timestamp="1583564696659">
       <screen x="0" y="23" width="1625" height="1027" />
     </state>
-    <state x="390" y="171" width="1053" height="731" key="NewModule_or_Project.wizard/0.23.1625.1027@0.23.1625.1027" timestamp="1583564768017" />
+    <state x="38" y="74" key="new project wizard/0.23.1625.1027@0.23.1625.1027" timestamp="1583564696659" />
   </component>
 </project>

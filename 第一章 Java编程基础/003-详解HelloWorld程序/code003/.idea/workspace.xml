@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3db220e6-82e0-4e13-a184-fae3120c5b73" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../002-环境准备/code002/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../002-环境准备/code002/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../002-环境准备/code002/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../002-环境准备/code002/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../002-环境准备/code002/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../002-环境准备/code002/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../002-环境准备/code002/code002.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../004-集成开发环境安装和使用/Code004/.idea/Code004.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../005-从加减乘除到变量/code005/.idea/code005.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../006-再探加减乘除的程序/code006/code006.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../007-Java中的基本数据类型/code007/code007.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../015-代码块和变量的作用域/code015/.idea/code015.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../015-代码块和变量的作用域/code015/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../015-代码块和变量的作用域/code015/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../015-代码块和变量的作用域/code015/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../015-代码块和变量的作用域/code015/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../015-代码块和变量的作用域/code015/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../第二章 Java面向对象编程/10. Intellij 调试程序初探/code/.idea/codeStyles/Project.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Yn32giP0Zua5xpcw5bfZFpEpOz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3db220e6-82e0-4e13-a184-fae3120c5b73" name="Default Changelist" comment="" />
+      <created>1583564325437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583564325437</updated>
+    </task>
+    <servers />
+  </component>
+</project>

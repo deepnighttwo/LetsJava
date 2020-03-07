@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c031ae0d-7dae-4295-8d67-d0d8b61bab97" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../002-环境准备/code002/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../002-环境准备/code002/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../002-环境准备/code002/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../002-环境准备/code002/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../002-环境准备/code002/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../002-环境准备/code002/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../002-环境准备/code002/code002.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../003-详解HelloWorld程序/code003/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../003-详解HelloWorld程序/code003/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../003-详解HelloWorld程序/code003/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../003-详解HelloWorld程序/code003/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../003-详解HelloWorld程序/code003/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../003-详解HelloWorld程序/code003/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Code004.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../005-从加减乘除到变量/code005/.idea/code005.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../006-再探加减乘除的程序/code006/code006.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../007-Java中的基本数据类型/code007/code007.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../015-代码块和变量的作用域/code015/.idea/code015.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../015-代码块和变量的作用域/code015/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../015-代码块和变量的作用域/code015/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../015-代码块和变量的作用域/code015/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../015-代码块和变量的作用域/code015/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../015-代码块和变量的作用域/code015/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../第二章 Java面向对象编程/10. Intellij 调试程序初探/code/.idea/codeStyles/Project.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Yn2KUXWeMIrzuhhxAACfQbDnnM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c031ae0d-7dae-4295-8d67-d0d8b61bab97" name="Default Changelist" comment="" />
+      <created>1583563973893</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583563973893</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="627" y="438" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583564046856">
+      <screen x="0" y="23" width="1625" height="1027" />
+    </state>
+    <state x="627" y="438" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1625.1027@0.23.1625.1027" timestamp="1583564046856" />
+  </component>
+</project>
