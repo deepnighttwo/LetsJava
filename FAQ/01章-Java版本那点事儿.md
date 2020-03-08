@@ -48,7 +48,8 @@ Oracle收购了Java之后，制定了一个LTS版本的规则。LTS就是Long Ti
 # 总结
 
 - Java 1.x 就是 Java x。比如Java 1.8 就是 Java 8。
-- 使用业界现在普遍使用的Java版本即可。每个版本差别并不大，新增的功能也未必成熟好用。
+- 使用业界现在普遍使用的Java版本即可。每个版本差别并不大，新增的功能也未必成熟好用。这里给出一个有心人总结的Java每个版本新增的功能：https://howtodoinjava.com/java-version-wise-features-history/
+
 
 
 
